@@ -1,6 +1,4 @@
-### Hi, I'm Monika!
-
-![Picture of Monika](monika.png)
+![Picture of Monika](https://raw.githubusercontent.com/monikajaskolka/monikajaskolka/master/monika.png)
 
 :blue_car: &nbsp;&nbsp; Software Engineer at [Fiat Chrysler Automobiles](https://www.fcagroup.com/en-US/group/regions/Pages/northamerica.aspx)
 
