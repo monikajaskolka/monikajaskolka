@@ -2,9 +2,9 @@
 
 :blue_car: &nbsp;&nbsp; Software Engineer at [Fiat Chrysler Automobiles](https://www.fcagroup.com/en-US/group/regions/Pages/northamerica.aspx)
 
-:bar_chart: &nbsp;&nbsp; Researcher at [McMaster Centre for Software Certification](mcscert.ca)
+:bar_chart: &nbsp;&nbsp; Researcher at [McMaster Centre for Software Certification](https://www.mcscert.ca/)
 
-:mortar_board: &nbsp;&nbsp; Finishing my PhD in Software Engineering in 2020
+:mortar_board: &nbsp;&nbsp; Finishing my PhD in Software Engineering in 2020 from [McMaster University](https://www.mcmaster.ca/)
 
 :hammer_and_wrench: &nbsp;&nbsp;	I use Matlab/Simulink daily
 
