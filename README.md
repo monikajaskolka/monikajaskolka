@@ -10,7 +10,7 @@
 
 :canada: &nbsp;&nbsp; Based out of Ottawa, Canada
 
-[![Monika's github stats](https://github-readme-stats.vercel.app/api?username=monikajaskolka&hide=stars&count_private=true&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+<!---[![Monika's github stats](https://github-readme-stats.vercel.app/api?username=monikajaskolka&hide=stars&count_private=true&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)--->
 
 [![Linkedin: monikajaskolka](https://img.shields.io/badge/monikajaskolka-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/monikajaskolka/)
 [![ResearchGate: monikajaskolka](https://img.shields.io/badge/monika__jaskolka-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Monika_Jaskolka)
