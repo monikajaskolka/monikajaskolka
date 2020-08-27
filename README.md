@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I'm Monika!
+----
 
-<!--
-**monikajaskolka/monikajaskolka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:blue_car: &nbsp;&nbsp; Software Engineer at [Fiat Chrysler Automobiles](https://www.fcagroup.com/en-US/group/regions/Pages/northamerica.aspx)
 
-Here are some ideas to get you started:
+:mortar_board: &nbsp;&nbsp; Will finish my PhD in Software Engineering in 2020
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:hammer_and_wrench: &nbsp;&nbsp;	I use Matlab/Simulink daily
+
+:canada: &nbsp;&nbsp; Based out of Ottawa, Canada
+
+
+[![Linkedin: monikajaskolka](https://img.shields.io/badge/monikajaskolka-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/monikajaskolka/)
+[![ResearchGate: monikajaskolka](https://img.shields.io/badge/monika__jaskolka-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Monika_Jaskolka)
+[![Twitter: monika_jaskolka](https://img.shields.io/twitter/follow/monika_jaskolka?style=social)](https://twitter.com/monika_jaskolka)
