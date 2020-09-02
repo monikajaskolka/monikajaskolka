@@ -8,7 +8,7 @@
 
 :hammer_and_wrench: &nbsp;&nbsp;	I use Matlab/Simulink daily
 
-:canada: &nbsp;&nbsp; Based out of Ottawa, Canada
+:canada: &nbsp;&nbsp; Remotely working out of Ottawa, Canada
 
 <!---[![Monika's github stats](https://github-readme-stats.vercel.app/api?username=monikajaskolka&hide=stars&count_private=true&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)--->
 
