@@ -15,4 +15,4 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/monikajaskolka/)
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Monika_Jaskolka)
 [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=ORCID&logoColor=white)](https://orcid.org/0000-0001-5853-6412)
-[![Twitter](https://img.shields.io/twitter/follow/monika_jaskolka?style=social)](https://twitter.com/monika_jaskolka)
+[![Twitter](https://img.shields.io/badge/-Twitter-bdb9b9?style=flat&logo=Twitter)](https://twitter.com/monika_jaskolka)
