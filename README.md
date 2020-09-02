@@ -17,3 +17,4 @@
 [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white)](https://orcid.org/0000-0001-5853-6412)
 [![Twitter](https://img.shields.io/badge/-Twitter-bdb9b9?style=for-the-badge&logo=Twitter)](https://twitter.com/monika_jaskolka)
 [![Personal Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge)](http://www.cas.mcmaster.ca/~bialym2/)
+[![Twitter](https://img.shields.io/badge/-MathWorks-0076A8?style=for-the-badge&logo=MathWorks&logoColor=orange)](https://www.mathworks.com/matlabcentral/profile/authors/4417791)
