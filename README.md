@@ -1,6 +1,6 @@
 ![Picture of Monika](https://raw.githubusercontent.com/monikajaskolka/monikajaskolka/master/monika.png)
 
-:blue_car: &nbsp;&nbsp; Software Engineer at [Fiat Chrysler Automobiles](https://www.fcagroup.com/en-US/group/regions/Pages/northamerica.aspx)
+:blue_car: &nbsp;&nbsp; Software Engineer at [Fiat Chrysler Automobiles](https://www.fcagroup.com/en-US/group/regions/Pages/northamerica.aspx) working on powertrain modelling
 
 :bar_chart: &nbsp;&nbsp; Researcher at [McMaster Centre for Software Certification](https://www.mcscert.ca/)
 
@@ -8,7 +8,7 @@
 
 :hammer_and_wrench: &nbsp;&nbsp;	I use Matlab/Simulink daily
 
-:canada: &nbsp;&nbsp; Remotely working out of Ottawa, Canada
+:canada: &nbsp;&nbsp; Remotely working from Ottawa, Canada
 
 <!---[![Monika's github stats](https://github-readme-stats.vercel.app/api?username=monikajaskolka&hide=stars&count_private=true&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)--->
 
