@@ -1,6 +1,6 @@
 ![Picture of Monika](https://raw.githubusercontent.com/monikajaskolka/monikajaskolka/master/monika.png)
 
-:blue_car: &nbsp;&nbsp; Software engineer at [Fiat Chrysler Automobiles](https://www.fcagroup.com/en-US/group/regions/Pages/northamerica.aspx) working on model-based development of automotive systems
+:blue_car: &nbsp;&nbsp; Software engineer at [Stellantis](https://www.stellantis.com/en) working on model-based development of automotive systems
 
 :bar_chart: &nbsp;&nbsp; Previously a researcher at the [McMaster Centre for Software Certification](https://www.mcscert.ca/)
 
