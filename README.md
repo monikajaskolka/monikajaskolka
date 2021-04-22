@@ -2,13 +2,13 @@
 
 :blue_car: &nbsp;&nbsp; Software engineer at [Stellantis](https://www.stellantis.com/en) working on model-based development of automotive systems
 
-:bar_chart: &nbsp;&nbsp; Previously a researcher at the [McMaster Centre for Software Certification](https://www.mcscert.ca/)
-
-:mortar_board: &nbsp;&nbsp; Finished my PhD in Software Engineering in 2020 from [McMaster University](https://www.mcmaster.ca/)
+:canada: &nbsp;&nbsp; Remotely working from Ottawa, Canada
 
 :hammer_and_wrench: &nbsp;&nbsp; I use Matlab and Simulink daily
 
-:canada: &nbsp;&nbsp; Remotely working from Ottawa, Canada
+:mortar_board: &nbsp;&nbsp; Finished my PhD in Software Engineering in 2020 from [McMaster University](https://www.mcmaster.ca/)
+
+:bar_chart: &nbsp;&nbsp; Previously a researcher at the [McMaster Centre for Software Certification](https://www.mcscert.ca/)
 
 <!---[![Monika's github stats](https://github-readme-stats.vercel.app/api?username=monikajaskolka&hide=stars&count_private=true&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)--->
 
