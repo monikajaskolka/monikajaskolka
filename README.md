@@ -1,8 +1,8 @@
 ![Picture of Monika](https://raw.githubusercontent.com/monikajaskolka/monikajaskolka/master/monika.png)
 
-:blue_car: &nbsp;&nbsp; Software engineer at [Stellantis](https://www.stellantis.com/en) working on model-based development of automotive systems
+:blue_car: &nbsp;&nbsp; Working on software architecture at [Stellantis](https://www.stellantis.com/en) for our next generation vehicles
 
-:canada: &nbsp;&nbsp; Remotely working from Ottawa, Canada
+:canada: &nbsp;&nbsp; Living in Ottawa, Canada
 
 :hammer_and_wrench: &nbsp;&nbsp; I use Matlab and Simulink daily
 
